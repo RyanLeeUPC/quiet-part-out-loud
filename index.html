@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Quiet Part Out Loud</title>
+  <meta name="description" content="A running archive of the tone-deaf things tech CEOs and executives say on the record. From Unpopular Culture.">
+  <meta name="theme-color" content="#f4f0eb" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0e0b0b" media="(prefers-color-scheme: dark)">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Unpopular Culture">
+  <meta property="og:title" content="The Quiet Part Out Loud">
+  <meta property="og:description" content="A running archive of the tone-deaf things tech CEOs and executives say on the record.">
+  <meta property="og:url" content="https://quietpart.upcpodcast.com/">
+  <meta name="twitter:card" content="summary">
+
+  <link rel="icon" href="assets/img/upc-avatar-black.jpg" type="image/jpeg">
+  <link rel="apple-touch-icon" href="assets/img/upc-avatar-black.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;600;700&family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <a class="skip" href="#quotes">Skip to quotes</a>
+
+  <header class="masthead on-paper">
+    <div class="wrap">
+      <div class="masthead__bar caption">
+        <a href="https://upcpodcast.com" rel="noopener">Unpopular Culture</a>
+        <span>On the record</span>
+      </div>
+      <div class="masthead__body">
+        <h1 class="masthead__title">
+          <span class="plate masthead__quiet">The quiet part</span>
+          <span class="masthead__loud">Out <em>loud</em></span>
+        </h1>
+        <p class="masthead__dek">
+          A running archive of things tech CEOs and executives said in public,
+          on the record, apparently on purpose.
+        </p>
+        <p class="masthead__by label">Every quote sourced and dated</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="quotes" class="wrap">
+    <section class="controls" aria-label="Filter quotes">
+      <div class="controls__row">
+        <label class="search">
+          <span class="visually-hidden">Search quotes</span>
+          <svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="square"/></svg>
+          <input id="search" type="search" placeholder="Search by words, name, or company" autocomplete="off">
+        </label>
+        <label class="sort">
+          <span class="visually-hidden">Sort</span>
+          <select id="sort">
+            <option value="newest">Newest first</option>
+            <option value="oldest">Oldest first</option>
+          </select>
+        </label>
+        <button id="random" class="btn" type="button">Random quote</button>
+      </div>
+      <div id="tags" class="tags" role="group" aria-label="Filter by topic"></div>
+      <p id="count" class="count caption" aria-live="polite"></p>
+    </section>
+
+    <ol id="list" class="list"></ol>
+    <p id="empty" class="empty" hidden>Nothing matches. For once, nobody said it.</p>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <a class="footer__mark" href="https://upcpodcast.com" rel="noopener">Unpopular Culture</a>
+      <p>
+        Every quote links to its source, with context and any apology or
+        clarification that followed. Spot an error, or one we missed?
+        <a id="submit-link" href="#">Submit a quote or correction</a>.
+      </p>
+      <p class="footer__hosts">
+        Kept by Ryan Lee (Cybersecurity) &middot;
+        <a href="https://x.com/RyanLeeUPC" rel="noopener">@RyanLeeUPC on X</a>
+      </p>
+    </div>
+  </footer>
+
+  <template id="quote-tpl">
+    <li class="quote">
+      <article>
+        <p class="quote__kicker label"><time class="quote__date"></time><span class="quote__venue"></span></p>
+        <blockquote class="quote__text"><p></p></blockquote>
+        <p class="quote__by label"><span class="quote__speaker"></span><span class="quote__role"></span></p>
+        <p class="quote__context"></p>
+        <p class="quote__aftermath"><strong class="caption">Afterward</strong><span></span></p>
+        <div class="quote__foot">
+          <ul class="quote__tags"></ul>
+          <div class="quote__actions caption">
+            <span class="quote__sources"></span>
+            <a class="quote__link" href="#">Copy link</a>
+          </div>
+        </div>
+      </article>
+    </li>
+  </template>
+
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>

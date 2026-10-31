@@ -1,0 +1,45 @@
+name: Submit a quote
+description: Suggest a tone-deaf thing a tech exec said on the record.
+title: "[Quote] "
+labels: ["submission"]
+body:
+  - type: textarea
+    id: quote
+    attributes:
+      label: The quote
+      description: Exact words, as reported. Use … for any cuts.
+    validations:
+      required: true
+  - type: input
+    id: speaker
+    attributes:
+      label: Who said it
+      placeholder: "Name, Title, Company (at the time)"
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: When and where
+      placeholder: "2024-06-08, Dartmouth Engineering event"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source links
+      description: A primary source (video, transcript, memo, post) if possible, plus a reputable news report. Submissions without a verifiable source can't be added.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What prompted it? Any apology or clarification afterward?
+  - type: checkboxes
+    id: check
+    attributes:
+      label: Accuracy check
+      options:
+        - label: I've checked the wording against the source, not just a social media screenshot.
+          required: true
