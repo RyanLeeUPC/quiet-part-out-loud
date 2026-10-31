@@ -15,6 +15,8 @@
     "layoffs": "Layoffs",
     "free-speech": "Free speech",
     "ethics": "Ethics",
+    "rto": "Return to office",
+    "gig-work": "Gig work",
   };
   const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
