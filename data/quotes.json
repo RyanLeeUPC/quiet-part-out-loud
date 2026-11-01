@@ -540,13 +540,13 @@
   },
   {
     "id": "john-riccitiello-reload-2011",
-    "quote": "When you are 6 hours into playing Battlefield, and you run out of ammo in your clip, and we ask you for a dollar to reload, you're really not very price sensitive at that point in time. … it's a great model and I think it represents a substantially better future for the industry.",
+    "quote": "When you are 6 hours into playing Battlefield, and you run out of ammo in your clip, and we ask you for a dollar to reload, you're really not very price sensitive at that point in time. … we're not gouging, but we're charging, and at that point in time the commitment can be pretty high.",
     "speaker": "John Riccitiello",
     "role": "CEO, Electronic Arts",
     "company": "Electronic Arts",
     "date": "2011",
     "venue": "Electronic Arts stockholder meeting",
-    "context": "Riccitiello was describing microtransactions to shareholders. He said a player deep into a game is already invested, so charging them mid-session works, and that he had spent about $5,000 that year on the same kind of purchases.",
+    "context": "Riccitiello was describing microtransactions to shareholders. He said a player deep into a game is already invested, so charging them mid-session works, and that he had spent about $5,000 that year on the same kind of purchases. He closed by calling it \"a great model\" that \"represents a substantially better future for the industry.\"",
     "aftermath": "",
     "tags": [
       "customers"
@@ -596,8 +596,8 @@
     "speaker": "Mitch Lowe",
     "role": "CEO, MoviePass",
     "company": "MoviePass",
-    "date": "2018-08-09",
-    "venue": "Interview reported by NBC",
+    "date": "2018-08",
+    "venue": "Quoted by NBC's local stations on August 9, 2018, which do not say where he said it",
     "context": "MoviePass had sold a $9.95 plan advertised as a movie a day, then lost money because it paid theaters full price. Lowe was explaining a new cap of three movies a month. He said 15 percent of users had been seeing four or more movies a month.",
     "aftermath": "The three-movie cap was scheduled to take effect August 15, 2018. MoviePass had already walked back a proposed price increase to $14.95.",
     "tags": [
@@ -607,18 +607,22 @@
       {
         "label": "NBC 5 Dallas-Fort Worth",
         "url": "https://www.nbcdfw.com/news/national-international/moviepass-ceo-mitch-lowe-business-plan-unsustainable/2082780/"
+      },
+      {
+        "label": "NBC New York",
+        "url": "https://www.nbcnewyork.com/news/business/MoviePass-CEO-Mitch-Lowe-Business-Plan-Unsustainable-490472391.html"
       }
     ]
   },
   {
     "id": "kerry-hopkins-surprise-mechanics-2019",
-    "quote": "First, we do not call them loot boxes. … That is what we look at as surprise mechanics. It is important to look at this. If you go to—I don't know what your version of Target is—a store that sells a lot of toys and you do a search for surprise toys, you will find that this is something people enjoy. They enjoy surprises. It is something that has been part of toys for years, whether it is Kinder eggs or Hatchimals or LOL Surprise!. We think the way we have implemented those kinds of mechanics—and FIFA, of course, is our big one, our FIFA Ultimate Team and our packs—is quite ethical and quite fun; it is enjoyable to people.",
+    "quote": "First, we do not call them loot boxes. … That is what we look at as surprise mechanics. … We think the way we have implemented those kinds of mechanics … is quite ethical and quite fun; it is enjoyable to people.",
     "speaker": "Kerry Hopkins",
     "role": "Vice President of Legal and Government Affairs, Electronic Arts",
     "company": "Electronic Arts",
     "date": "2019-06-19",
     "venue": "UK Parliament Digital, Culture, Media and Sport Committee",
-    "context": "MPs were taking oral evidence on immersive and addictive technologies and asked EA and Epic Games whether loot boxes were ethical, citing research that linked them to problem gambling among adolescents. Hopkins was answering Brendan O'Hara.",
+    "context": "MPs were taking oral evidence on immersive and addictive technologies and asked EA and Epic Games whether loot boxes were ethical, citing research that linked them to problem gambling among adolescents. Hopkins was answering Brendan O'Hara. She compared the packs in FIFA Ultimate Team, EA's biggest example, to surprise toys such as Kinder eggs and Hatchimals.",
     "aftermath": "",
     "tags": [
       "customers",
@@ -637,7 +641,7 @@
   },
   {
     "id": "daniel-ek-release-cycle-2020",
-    "quote": "There is a narrative fallacy here, combined with the fact that, obviously, some artists that used to do well in the past may not do well in this future landscape, where you can't record music once every three to four years and think that's going to be enough. … The artists today that are making it realise that it's about creating a continuous engagement with their fans. It is about putting the work in, about the storytelling around the album, and about keeping a continuous dialogue with your fans.",
+    "quote": "Some artists that used to do well in the past may not do well in this future landscape, where you can't record music once every three to four years and think that's going to be enough. … The artists today that are making it realise that it's about creating a continuous engagement with their fans.",
     "speaker": "Daniel Ek",
     "role": "CEO, Spotify",
     "company": "Spotify",
@@ -717,7 +721,7 @@
     "date": "2024-12-12",
     "venue": "Bloomberg Television",
     "context": "Siemiatkowski said Klarna had stopped hiring about a year earlier and had fallen from about 4,500 employees to about 3,500 through attrition. He described the freeze as a way to shrink the company by applying AI, and said some of the savings would show up in remaining employees' pay.",
-    "aftermath": "In May 2025 he told Bloomberg that cost had been \"a too predominant evaluation factor\" in customer service and that \"what you end up having is lower quality.\" He said, \"Really investing in the quality of the human support is the way of the future for us,\" as Klarna piloted human support hires. A spokesperson told Fortune the company was \"very much still AI-first.\"",
+    "aftermath": "Days later TechCrunch found more than 50 open roles on Klarna's jobs page. A Klarna spokesperson called the CEO's comments \"directionally true\" and said the company was mainly backfilling essential roles, mostly in engineering. In May 2025 he told Bloomberg that cost had been \"a too predominant evaluation factor\" in customer service and that \"what you end up having is lower quality.\" He said, \"Really investing in the quality of the human support is the way of the future for us,\" as Klarna piloted human support hires. A spokesperson told Fortune the company was \"very much still AI-first.\"",
     "tags": [
       "ai",
       "labor"
@@ -739,7 +743,7 @@
   },
   {
     "id": "sam-altman-dram-2026",
-    "quote": "But from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used … 5% of the time. You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's … Many people's intuition is the opposite of that.",
+    "quote": "But from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer. And, being used … 5% of the time. You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's … Many people's intuition is the opposite of that.",
     "speaker": "Sam Altman",
     "role": "CEO, OpenAI",
     "company": "OpenAI",
