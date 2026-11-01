@@ -484,5 +484,286 @@
         "url": "https://www.pbs.org/newshour/world/uber-ceo-walks-back-comment-on-saudi-writers-slaying"
       }
     ]
+  },
+  {
+    "id": "peter-thiel-franchise-2009",
+    "quote": "Since 1920, the vast increase in welfare beneficiaries and the extension of the franchise to women — two constituencies that are notoriously tough for libertarians — have rendered the notion of \"capitalist democracy\" into an oxymoron.",
+    "speaker": "Peter Thiel",
+    "role": "President, Clarium Capital",
+    "company": "Clarium Capital",
+    "date": "2009-04-13",
+    "venue": "Essay, \"The Education of a Libertarian,\" Cato Unbound",
+    "context": "In the essay Thiel argues that libertarian aims could not be won through democratic politics. Earlier in it he writes, \"Most importantly, I no longer believe that freedom and democracy are compatible.\"",
+    "aftermath": "In a follow-up carried on the same Cato Unbound page, he wrote: \"It would be absurd to suggest that women's votes will be taken away or that this would solve the political problems that vex us. While I don't think any class of people should be disenfranchised, I have little hope that voting will make things better.\"",
+    "tags": [
+      "ethics",
+      "diversity"
+    ],
+    "sources": [
+      {
+        "label": "Cato Unbound (essay)",
+        "url": "https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/"
+      },
+      {
+        "label": "Cato Unbound (April 2009 issue)",
+        "url": "https://www.cato-unbound.org/print-issue/753/"
+      }
+    ]
+  },
+  {
+    "id": "steve-jobs-antenna-2010",
+    "quote": "Non issue. Just avoid holding it in that way.",
+    "speaker": "Steve Jobs",
+    "role": "CEO, Apple",
+    "company": "Apple",
+    "date": "2010-06-24",
+    "venue": "Email to an iPhone 4 customer",
+    "context": "Hours after the iPhone 4 went on sale, buyers reported that reception dropped when a hand bridged the metal band that doubled as the antenna. A customer asked Jobs whether the drop was a software or hardware problem.",
+    "aftermath": "Apple's first public statement told people to avoid that grip or use a case. At a July 16 press conference Jobs said the story had been blown out of proportion, then offered a free case to iPhone 4 buyers through September 30 and a full refund on undamaged returns.",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "MacRumors",
+        "url": "https://www.macrumors.com/2010/06/24/steve-jobs-describes-iphone-4-signal-strength-a-non-issue/"
+      },
+      {
+        "label": "The Guardian",
+        "url": "https://www.theguardian.com/technology/blog/2010/jun/25/iphone-reception-problems-solved"
+      },
+      {
+        "label": "Macworld (July 16 press conference)",
+        "url": "https://www.macworld.com/article/206586/iphone4-4.html"
+      }
+    ]
+  },
+  {
+    "id": "john-riccitiello-reload-2011",
+    "quote": "When you are 6 hours into playing Battlefield, and you run out of ammo in your clip, and we ask you for a dollar to reload, you're really not very price sensitive at that point in time. … we're not gouging, but we're charging, and at that point in time the commitment can be pretty high.",
+    "speaker": "John Riccitiello",
+    "role": "CEO, Electronic Arts",
+    "company": "Electronic Arts",
+    "date": "2011",
+    "venue": "Electronic Arts stockholder meeting",
+    "context": "Riccitiello was describing microtransactions to shareholders. He said a player deep into a game is already invested, so charging them mid-session works, and that he had spent about $5,000 that year on the same kind of purchases. He closed by calling it \"a great model\" that \"represents a substantially better future for the industry.\"",
+    "aftermath": "",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "Baekdal (quoting the meeting)",
+        "url": "https://baekdal.com/article/optimizing-your-industry-to-the-point-of-suicide"
+      },
+      {
+        "label": "ReadWrite",
+        "url": "https://readwrite.com/readwriteweb-deathwatch-electronic-arts/"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=ZR6-u8OIJTE"
+      }
+    ]
+  },
+  {
+    "id": "phil-schiller-headphone-jack-2016",
+    "quote": "Now some people have asked why we would remove the analog headphone jack from the iPhone. … The reason to move on — I'm going to give you three of them, but it really comes down to one word: courage. The courage to move on, do something new, that betters all of us.",
+    "speaker": "Phil Schiller",
+    "role": "Senior Vice President of Worldwide Marketing, Apple",
+    "company": "Apple",
+    "date": "2016-09-07",
+    "venue": "Apple special event, San Francisco",
+    "context": "Apple announced the iPhone 7 without a 3.5mm headphone jack. The phone shipped with Lightning EarPods, a dongle for old headphones, and $159 wireless AirPods sold separately.",
+    "aftermath": "",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "Daring Fireball (event transcript)",
+        "url": "https://daringfireball.net/2016/09/courage"
+      },
+      {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage"
+      }
+    ]
+  },
+  {
+    "id": "mitch-lowe-fifteen-percent-2018",
+    "quote": "We changed the business model to a new plan which satisfies the need of 85 percent of our customers and significantly reduces the bulk by not having to deliver movies to the 15 percent, instead of having an unsustainable service serving 100 percent of customers.",
+    "speaker": "Mitch Lowe",
+    "role": "CEO, MoviePass",
+    "company": "MoviePass",
+    "date": "2018-08",
+    "venue": "Quoted by NBC's local stations on August 9, 2018, which do not say where he said it",
+    "context": "MoviePass had sold a $9.95 plan advertised as a movie a day, then lost money because it paid theaters full price. Lowe was explaining a new cap of three movies a month. He said 15 percent of users had been seeing four or more movies a month.",
+    "aftermath": "The three-movie cap was scheduled to take effect August 15, 2018. MoviePass had already walked back a proposed price increase to $14.95.",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "NBC 5 Dallas-Fort Worth",
+        "url": "https://www.nbcdfw.com/news/national-international/moviepass-ceo-mitch-lowe-business-plan-unsustainable/2082780/"
+      },
+      {
+        "label": "NBC New York",
+        "url": "https://www.nbcnewyork.com/news/business/MoviePass-CEO-Mitch-Lowe-Business-Plan-Unsustainable-490472391.html"
+      }
+    ]
+  },
+  {
+    "id": "kerry-hopkins-surprise-mechanics-2019",
+    "quote": "First, we do not call them loot boxes. … That is what we look at as surprise mechanics. … We think the way we have implemented those kinds of mechanics … is quite ethical and quite fun; it is enjoyable to people.",
+    "speaker": "Kerry Hopkins",
+    "role": "Vice President of Legal and Government Affairs, Electronic Arts",
+    "company": "Electronic Arts",
+    "date": "2019-06-19",
+    "venue": "UK Parliament Digital, Culture, Media and Sport Committee",
+    "context": "MPs were taking oral evidence on immersive and addictive technologies and asked EA and Epic Games whether loot boxes were ethical, citing research that linked them to problem gambling among adolescents. Hopkins was answering Brendan O'Hara. She compared the packs in FIFA Ultimate Team, EA's biggest example, to surprise toys such as Kinder eggs and Hatchimals.",
+    "aftermath": "",
+    "tags": [
+      "customers",
+      "ethics"
+    ],
+    "sources": [
+      {
+        "label": "UK Parliament (transcript)",
+        "url": "http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/digital-culture-media-and-sport-committee/immersive-and-addictive-technologies/oral/103191.html"
+      },
+      {
+        "label": "Ars Technica",
+        "url": "https://arstechnica.com/gaming/2019/06/ea-loot-boxes-actually-surprise-mechanics-that-are-ethical-and-fun/"
+      }
+    ]
+  },
+  {
+    "id": "daniel-ek-release-cycle-2020",
+    "quote": "Some artists that used to do well in the past may not do well in this future landscape, where you can't record music once every three to four years and think that's going to be enough. … The artists today that are making it realise that it's about creating a continuous engagement with their fans.",
+    "speaker": "Daniel Ek",
+    "role": "CEO, Spotify",
+    "company": "Spotify",
+    "date": "2020-07-30",
+    "venue": "Interview with Music Ally",
+    "context": "After Spotify's quarterly earnings, Music Ally asked Ek about musicians who said streaming royalties were not enough to live on, including the UK #BrokenRecord campaign.",
+    "aftermath": "In February 2021 he told Variety, \"I did not mean to imply that people need to work harder or crank out ten albums a year,\" and \"I probably could have phrased it a lot better than I did.\"",
+    "tags": [
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "Music Ally (interview)",
+        "url": "https://musically.com/2020/07/30/spotify-ceo-talks-covid-19-artist-incomes-and-podcasting-interview/"
+      },
+      {
+        "label": "The FADER",
+        "url": "https://www.thefader.com/2020/07/30/spotify-ceo-daniel-ek-says-working-musicians-can-no-longer-release-music-only-once-every-three-to-four-years"
+      },
+      {
+        "label": "Music Ally (2021 clarification)",
+        "url": "https://musically.com/2021/02/23/spotify-daniel-ek-bollywood-creators-radio/"
+      }
+    ]
+  },
+  {
+    "id": "steve-huffman-landed-gentry-2023",
+    "quote": "If you're a politician or a business owner, you are accountable to your constituents. So a politician needs to be elected, and a business owner can be fired by its shareholders. And I think, on Reddit, the analogy is closer to the landed gentry: The people who get there first get to stay there and pass it down to their descendants, and that is not democratic.",
+    "speaker": "Steve Huffman",
+    "role": "CEO, Reddit",
+    "company": "Reddit",
+    "date": "2023-06-15",
+    "venue": "Interview with NBC News",
+    "context": "Volunteer moderators had taken thousands of subreddits private to protest Reddit's plan to charge more for API access, which third-party apps said would shut them down. Huffman said he was considering rule changes that would let users vote moderators out.",
+    "aftermath": "",
+    "tags": [
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544"
+      },
+      {
+        "label": "Business Insider",
+        "url": "https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6"
+      }
+    ]
+  },
+  {
+    "id": "sasan-goodarzi-direct-file-2024",
+    "quote": "Our view, by the way, very strongly, and we've been on the record, is that this is a solution looking for a problem. Free already exists. And by the way, what the government is providing is not free. You're paying. Your tax dollars are going toward building software that already exists for Americans.",
+    "speaker": "Sasan Goodarzi",
+    "role": "CEO, Intuit",
+    "company": "Intuit",
+    "date": "2024-10-21",
+    "venue": "Decoder podcast, The Verge",
+    "context": "Nilay Patel asked about Intuit's lobbying as the IRS expanded Direct File, a free public option for simple returns. Goodarzi said free filing was already available through private companies and that a government product was redundant.",
+    "aftermath": "Intuit's chief communications officer asked The Verge to delete that section of the interview, calling the questioning inappropriate. The Verge published the exchange unedited.",
+    "tags": [
+      "customers",
+      "wealth"
+    ],
+    "sources": [
+      {
+        "label": "The Verge (transcript)",
+        "url": "https://www.theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-siemiatkowski-ai-jobs-2024",
+    "quote": "I am of the opinion that AI can already do all of the jobs that we as humans do. It's just a question of how we apply it and use it.",
+    "speaker": "Sebastian Siemiatkowski",
+    "role": "CEO, Klarna",
+    "company": "Klarna",
+    "date": "2024-12-12",
+    "venue": "Bloomberg Television",
+    "context": "Siemiatkowski said Klarna had stopped hiring about a year earlier and had fallen from about 4,500 employees to about 3,500 through attrition. He described the freeze as a way to shrink the company by applying AI, and said some of the savings would show up in remaining employees' pay.",
+    "aftermath": "Days later TechCrunch found more than 50 open roles on Klarna's jobs page. A Klarna spokesperson called the CEO's comments \"directionally true\" and said the company was mainly backfilling essential roles, mostly in engineering. In May 2025 he told Bloomberg that cost had been \"a too predominant evaluation factor\" in customer service and that \"what you end up having is lower quality.\" He said, \"Really investing in the quality of the human support is the way of the future for us,\" as Klarna piloted human support hires. A spokesperson told Fortune the company was \"very much still AI-first.\"",
+    "tags": [
+      "ai",
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2024/12/14/klarnas-ceo-says-it-stopped-hiring-thanks-to-ai-but-still-advertises-many-open-positions/"
+      },
+      {
+        "label": "Business Insider",
+        "url": "https://www.businessinsider.com/klarna-ceo-sebastian-siemiatkowski-ai-jobs-2024-12"
+      },
+      {
+        "label": "Fortune (May 2025)",
+        "url": "https://fortune.com/2025/05/09/klarna-ai-humans-return-on-investment/"
+      }
+    ]
+  },
+  {
+    "id": "sam-altman-dram-2026",
+    "quote": "But from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer. And, being used … 5% of the time. You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's … Many people's intuition is the opposite of that.",
+    "speaker": "Sam Altman",
+    "role": "CEO, OpenAI",
+    "company": "OpenAI",
+    "date": "2026-10-29",
+    "venue": "Cheeky Pint podcast, with John Collison",
+    "context": "Collison asked about high memory prices and whether new supply was on the way. Altman said the shortage was not fixing itself, then argued that DRAM in personal computers was a worse use of a scarce supply than cloud data centers. The Verge reported that long-term deals with cloud operators, including OpenAI's Stargate, have reserved much of the world's RAM output and are pushing up prices for laptops and phones.",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "Cheeky Pint (transcript)",
+        "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
+      },
+      {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
+      }
+    ]
   }
 ]
