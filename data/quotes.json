@@ -511,51 +511,102 @@
     ]
   },
   {
-    "id": "jackie-reses-remote-work-2013",
-    "quote": "To become the absolute best place to work, communication and collaboration will be important, so we need to be working side-by-side. That is why it is critical that we are all present in our offices. Some of the best decisions and insights come from hallway and cafeteria discussions, meeting new people, and impromptu team meetings. Speed and quality are often sacrificed when we work from home. We need to be one Yahoo!, and that starts with physically being together.",
-    "speaker": "Jackie Reses",
-    "role": "Head of Human Resources, Yahoo",
-    "company": "Yahoo",
-    "date": "2013-02-22",
-    "venue": "Internal memo to Yahoo employees",
-    "context": "Reses sent the memo, which AllThingsD reported as a rule rolled out by CEO Marissa Mayer, telling employees with work-from-home arrangements to work in Yahoo offices starting in June. Staff who did not comply were expected to leave.",
-    "aftermath": "",
+    "id": "steve-jobs-antenna-2010",
+    "quote": "Non issue. Just avoid holding it in that way.",
+    "speaker": "Steve Jobs",
+    "role": "CEO, Apple",
+    "company": "Apple",
+    "date": "2010-06-24",
+    "venue": "Email to an iPhone 4 customer",
+    "context": "Hours after the iPhone 4 went on sale, buyers reported that reception dropped when a hand bridged the metal band that doubled as the antenna. A customer asked Jobs whether the drop was a software or hardware problem.",
+    "aftermath": "Apple's first public statement told people to avoid that grip or use a case. At a July 16 press conference Jobs said the story had been blown out of proportion, then offered a free case to iPhone 4 buyers through September 30 and a full refund on undamaged returns.",
     "tags": [
-      "labor",
-      "rto"
+      "customers"
     ],
     "sources": [
       {
-        "label": "AllThingsD (full memo)",
-        "url": "https://allthingsd.com/20130222/physically-together-heres-the-internal-yahoo-no-work-from-home-memo-which-extends-beyond-remote-workers"
+        "label": "MacRumors",
+        "url": "https://www.macrumors.com/2010/06/24/steve-jobs-describes-iphone-4-signal-strength-a-non-issue/"
       },
       {
         "label": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2013/feb/25/yahoo-chief-bans-working-home"
+        "url": "https://www.theguardian.com/technology/blog/2010/jun/25/iphone-reception-problems-solved"
+      },
+      {
+        "label": "Macworld (July 16 press conference)",
+        "url": "https://www.macworld.com/article/206586/iphone4-4.html"
       }
     ]
   },
   {
-    "id": "michael-moritz-standards-2015",
-    "quote": "We look very hard. In fact, we just hired a young woman from Stanford who's every bit as good as her peers. And if there are more like her, we'll hire them. What we're not prepared to do, is to lower our standards.",
-    "speaker": "Michael Moritz",
-    "role": "Chairman, Sequoia Capital",
-    "company": "Sequoia Capital",
-    "date": "2015-12-02",
-    "venue": "Bloomberg TV, Studio 1.0, interview with Emily Chang",
-    "context": "Chang asked why Sequoia had no women investing partners in the United States. Moritz said women tended not to study the sciences in high school, so the hiring pool was smaller, and described the firm as blind to sex and background.",
-    "aftermath": "In a statement to Re/code he said, \"I know there are many remarkable women who would flourish in the venture business. We're working hard to find them and would be ecstatic if more joined Sequoia or other firms.\"",
+    "id": "john-riccitiello-reload-2011",
+    "quote": "When you are 6 hours into playing Battlefield, and you run out of ammo in your clip, and we ask you for a dollar to reload, you're really not very price sensitive at that point in time. … it's a great model and I think it represents a substantially better future for the industry.",
+    "speaker": "John Riccitiello",
+    "role": "CEO, Electronic Arts",
+    "company": "Electronic Arts",
+    "date": "2011",
+    "venue": "Electronic Arts stockholder meeting",
+    "context": "Riccitiello was describing microtransactions to shareholders. He said a player deep into a game is already invested, so charging them mid-session works, and that he had spent about $5,000 that year on the same kind of purchases.",
+    "aftermath": "",
     "tags": [
-      "diversity"
+      "customers"
     ],
     "sources": [
       {
-        "label": "Vox / Re/code (transcript of remarks)",
-        "url": "https://www.vox.com/2015/12/3/11621140/venerated-vc-michael-moritz-opens-mouth-inserts-foot-on-question"
+        "label": "Baekdal (quoting the meeting)",
+        "url": "https://baekdal.com/article/optimizing-your-industry-to-the-point-of-suicide"
       },
       {
-        "label": "Vanity Fair",
-        "url": "https://www.vanityfair.com/news/2015/12/michael-moritz-sequoia-women-partners-tech"
+        "label": "ReadWrite",
+        "url": "https://readwrite.com/readwriteweb-deathwatch-electronic-arts/"
+      },
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=ZR6-u8OIJTE"
+      }
+    ]
+  },
+  {
+    "id": "phil-schiller-headphone-jack-2016",
+    "quote": "Now some people have asked why we would remove the analog headphone jack from the iPhone. … The reason to move on — I'm going to give you three of them, but it really comes down to one word: courage. The courage to move on, do something new, that betters all of us.",
+    "speaker": "Phil Schiller",
+    "role": "Senior Vice President of Worldwide Marketing, Apple",
+    "company": "Apple",
+    "date": "2016-09-07",
+    "venue": "Apple special event, San Francisco",
+    "context": "Apple announced the iPhone 7 without a 3.5mm headphone jack. The phone shipped with Lightning EarPods, a dongle for old headphones, and $159 wireless AirPods sold separately.",
+    "aftermath": "",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "Daring Fireball (event transcript)",
+        "url": "https://daringfireball.net/2016/09/courage"
+      },
+      {
+        "label": "The Verge",
+        "url": "https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage"
+      }
+    ]
+  },
+  {
+    "id": "mitch-lowe-fifteen-percent-2018",
+    "quote": "We changed the business model to a new plan which satisfies the need of 85 percent of our customers and significantly reduces the bulk by not having to deliver movies to the 15 percent, instead of having an unsustainable service serving 100 percent of customers.",
+    "speaker": "Mitch Lowe",
+    "role": "CEO, MoviePass",
+    "company": "MoviePass",
+    "date": "2018-08-09",
+    "venue": "Interview reported by NBC",
+    "context": "MoviePass had sold a $9.95 plan advertised as a movie a day, then lost money because it paid theaters full price. Lowe was explaining a new cap of three movies a month. He said 15 percent of users had been seeing four or more movies a month.",
+    "aftermath": "The three-movie cap was scheduled to take effect August 15, 2018. MoviePass had already walked back a proposed price increase to $14.95.",
+    "tags": [
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "NBC 5 Dallas-Fort Worth",
+        "url": "https://www.nbcdfw.com/news/national-international/moviepass-ceo-mitch-lowe-business-plan-unsustainable/2082780/"
       }
     ]
   },
@@ -581,31 +632,6 @@
       {
         "label": "Ars Technica",
         "url": "https://arstechnica.com/gaming/2019/06/ea-loot-boxes-actually-surprise-mechanics-that-are-ethical-and-fun/"
-      }
-    ]
-  },
-  {
-    "id": "tony-xu-tips-2019",
-    "quote": "We thought we were doing the right thing by making Dashers whole when a customer left no tip. What we missed was that some customers who *did* tip would feel like their tip did not matter.",
-    "speaker": "Tony Xu",
-    "role": "CEO, DoorDash",
-    "company": "DoorDash",
-    "date": "2019-07-24",
-    "venue": "Twitter thread",
-    "context": "The New York Times had reported that DoorDash counted customer tips toward a guaranteed delivery minimum instead of adding them on top of the company's pay. Xu said DoorDash would change the model so a tip increased a worker's earnings by the same amount.",
-    "aftermath": "On Aug. 22, 2019, DoorDash said drivers would receive the full tip on top of base pay, with the change rolling out the following month. In the company's blog post, Xu wrote that DoorDash had at first resisted changing the 2017 model despite public pressure.",
-    "tags": [
-      "labor",
-      "gig-work"
-    ],
-    "sources": [
-      {
-        "label": "CNBC",
-        "url": "https://www.cnbc.com/2019/07/24/doordash-tips-will-be-given-to-delivery-people-ceo-says.html"
-      },
-      {
-        "label": "The Verge (Aug. 22 policy)",
-        "url": "https://www.theverge.com/2019/8/22/20828742/doordash-tipping-policy-change-drivers-earning-more-money"
       }
     ]
   },
@@ -638,80 +664,6 @@
     ]
   },
   {
-    "id": "john-riccitiello-monetization-2022",
-    "quote": "Ferrari and some of the other high-end car manufacturers still use clay and carving knives. It's a very small portion of the gaming industry that works that way, and some of these people are my favourite people in the world to fight with – they're the most beautiful and pure, brilliant people. They're also some of the biggest fucking idiots.",
-    "speaker": "John Riccitiello",
-    "role": "CEO, Unity",
-    "company": "Unity",
-    "date": "2022-07-13",
-    "venue": "Interview with PocketGamer.biz",
-    "context": "Unity had just announced a merger with ironSource, which sells tools for making money from apps. Asked about developers who push back on building monetization into a game early, Riccitiello compared them to carmakers who still sculpt clay by hand.",
-    "aftermath": "He first called coverage of the line \"clickbait\" and \"out of full context\" while saying he was \"deeply sorry\" if it offended developers. On July 18 he wrote, \"My word choice was crude. I am sorry. I am listening and I will do better,\" and called it \"a sentence that I wish I had never said.\"",
-    "tags": [
-      "customers"
-    ],
-    "sources": [
-      {
-        "label": "PocketGamer.biz (interview)",
-        "url": "https://www.pocketgamer.biz/unity-ironsource-john-riccitiello-marc-whitten-merger/"
-      },
-      {
-        "label": "The Verge (apology)",
-        "url": "https://www.theverge.com/2022/7/18/23269218/unity-ceo-john-riccitiello-apology-game-developers-fucking-idiots-ironsource-merger"
-      }
-    ]
-  },
-  {
-    "id": "marc-benioff-productivity-2022",
-    "quote": "How do we increase the productivity of our employees at salesforce? New employees (hired during the pandemic in 2021 & 2022) are especially facing much lower productivity. Is this a reflection of our office policy? Are we not building tribal knowledge with new employees without an office culture?",
-    "speaker": "Marc Benioff",
-    "role": "Co-CEO, Salesforce",
-    "company": "Salesforce",
-    "date": "2022-12-16",
-    "venue": "Company Slack message",
-    "context": "Salesforce had told employees they could work from home, and Benioff had previously criticized return-to-office orders. In the Slack post, marked \"Asking for a friend,\" he asked whether the lack of an office culture explained lower productivity among people hired in 2021 and 2022.",
-    "aftermath": "He did not withdraw the claim. He wrote that asking hard questions was \"one of the most effective ways to get answers as a leader today\" and called it \"disappointing\" that the thread was shared with the media. Employees replied asking how productivity was being defined and for the data.",
-    "tags": [
-      "labor",
-      "rto"
-    ],
-    "sources": [
-      {
-        "label": "CNBC (full Slack text)",
-        "url": "https://www.cnbc.com/2022/12/16/marc-benioff-says-newer-salesforce-employees-are-less-productive.html"
-      },
-      {
-        "label": "Business Insider",
-        "url": "https://www.businessinsider.com/marc-benioff-salesforce-new-employees-less-productive-uproar-2022-12"
-      }
-    ]
-  },
-  {
-    "id": "arvind-krishna-back-office-ai-2023",
-    "quote": "I could easily see 30 percent of that getting replaced by AI and automation over a five-year period.",
-    "speaker": "Arvind Krishna",
-    "role": "CEO, IBM",
-    "company": "IBM",
-    "date": "2023-05-01",
-    "venue": "Interview with Bloomberg, New York",
-    "context": "Krishna said IBM would pause or slow hiring for back-office work, such as human resources, that it thought artificial intelligence could do. He was speaking about roughly 26,000 non-customer-facing roles; 30 percent of that group is about 7,800 jobs, with some of the reduction coming from not replacing people who left.",
-    "aftermath": "",
-    "tags": [
-      "ai",
-      "labor"
-    ],
-    "sources": [
-      {
-        "label": "Ars Technica",
-        "url": "https://arstechnica.com/information-technology/2023/05/ibm-pauses-hiring-around-7800-roles-that-could-be-replaced-by-ai/"
-      },
-      {
-        "label": "The National (Bloomberg)",
-        "url": "https://www.thenationalnews.com/business/technology/2023/05/02/ibm-could-stop-hiring-for-jobs-that-ai-can-do-ceo-says/"
-      }
-    ]
-  },
-  {
     "id": "steve-huffman-landed-gentry-2023",
     "quote": "If you're a politician or a business owner, you are accountable to your constituents. So a politician needs to be elected, and a business owner can be fired by its shareholders. And I think, on Reddit, the analogy is closer to the landed gentry: The people who get there first get to stay there and pass it down to their descendants, and that is not democratic.",
     "speaker": "Steve Huffman",
@@ -732,6 +684,27 @@
       {
         "label": "Business Insider",
         "url": "https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6"
+      }
+    ]
+  },
+  {
+    "id": "sasan-goodarzi-direct-file-2024",
+    "quote": "Our view, by the way, very strongly, and we've been on the record, is that this is a solution looking for a problem. Free already exists. And by the way, what the government is providing is not free. You're paying. Your tax dollars are going toward building software that already exists for Americans.",
+    "speaker": "Sasan Goodarzi",
+    "role": "CEO, Intuit",
+    "company": "Intuit",
+    "date": "2024-10-21",
+    "venue": "Decoder podcast, The Verge",
+    "context": "Nilay Patel asked about Intuit's lobbying as the IRS expanded Direct File, a free public option for simple returns. Goodarzi said free filing was already available through private companies and that a government product was redundant.",
+    "aftermath": "Intuit's chief communications officer asked The Verge to delete that section of the interview, calling the questioning inappropriate. The Verge published the exchange unedited.",
+    "tags": [
+      "customers",
+      "wealth"
+    ],
+    "sources": [
+      {
+        "label": "The Verge (transcript)",
+        "url": "https://www.theverge.com/2024/10/21/24273820/intuit-ceo-sasan-goodarzi-turbotax-irs-quickbooks-ai-software-decoder-interview"
       }
     ]
   },
@@ -765,56 +738,27 @@
     ]
   },
   {
-    "id": "tobi-lutke-ai-headcount-2025",
-    "quote": "Before asking for more Headcount and resources, teams must demonstrate why they cannot get what they want done using AI. What would this area look like if autonomous AI agents were already part of the team?",
-    "speaker": "Tobi Lütke",
-    "role": "CEO, Shopify",
-    "company": "Shopify",
-    "date": "2025-04-07",
-    "venue": "Internal memo, posted by Lütke on X",
-    "context": "The memo, sent to employees in late March 2025, said reflexive use of AI was now a baseline expectation at Shopify and that questions about AI use would be added to performance and peer reviews. Lütke posted the memo publicly on April 7 after it leaked.",
+    "id": "sam-altman-dram-2026",
+    "quote": "But from a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used … 5% of the time. You want maximum utilization in the cloud if you're trying to deal with this very supply constrained environment. And somehow everyone's … Many people's intuition is the opposite of that.",
+    "speaker": "Sam Altman",
+    "role": "CEO, OpenAI",
+    "company": "OpenAI",
+    "date": "2026-10-29",
+    "venue": "Cheeky Pint podcast, with John Collison",
+    "context": "Collison asked about high memory prices and whether new supply was on the way. Altman said the shortage was not fixing itself, then argued that DRAM in personal computers was a worse use of a scarce supply than cloud data centers. The Verge reported that long-term deals with cloud operators, including OpenAI's Stargate, have reserved much of the world's RAM output and are pushing up prices for laptops and phones.",
     "aftermath": "",
     "tags": [
       "ai",
-      "labor"
+      "customers"
     ],
     "sources": [
       {
-        "label": "Business Insider",
-        "url": "https://www.businessinsider.com/shopify-ceo-tobi-lutke-employees-prove-ai-job-2025-4"
+        "label": "Cheeky Pint (transcript)",
+        "url": "https://cheekypint.substack.com/p/why-sam-altman-is-against-a-single"
       },
       {
-        "label": "CNBC",
-        "url": "https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html"
-      },
-      {
-        "label": "TechCrunch",
-        "url": "https://techcrunch.com/2025/04/07/shopify-ceo-tells-teams-to-consider-using-ai-before-growing-headcount/"
-      }
-    ]
-  },
-  {
-    "id": "luis-von-ahn-ai-first-2025",
-    "quote": "We'd rather move with urgency and take occasional small hits on quality than move slowly and miss the moment. … We'll gradually stop using contractors to do work that AI can handle. … Headcount will only be given if a team cannot automate more of their work.",
-    "speaker": "Luis von Ahn",
-    "role": "CEO, Duolingo",
-    "company": "Duolingo",
-    "date": "2025-04-28",
-    "venue": "All-hands email, posted by Duolingo on LinkedIn",
-    "context": "Von Ahn wrote that Duolingo was going to be \"AI-first,\" comparing the decision to the company's 2012 bet on mobile. The email said AI use would be part of hiring and performance reviews, and that most functions would have to change how they work.",
-    "aftermath": "In the same email he wrote, \"This isn't about replacing Duos with AI. It's about removing bottlenecks so we can do more with the outstanding Duos we already have.\"",
-    "tags": [
-      "ai",
-      "labor"
-    ],
-    "sources": [
-      {
-        "label": "The Verge (full email)",
-        "url": "https://www.theverge.com/news/657594/duolingo-ai-first-replace-contract-workers"
-      },
-      {
-        "label": "Snopes",
-        "url": "https://www.snopes.com/fact-check/duolingo-ai-first/"
+        "label": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
       }
     ]
   }
