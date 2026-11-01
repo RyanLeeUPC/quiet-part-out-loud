@@ -575,7 +575,7 @@
     "date": "2016-09-07",
     "venue": "Apple special event, San Francisco",
     "context": "Apple announced the iPhone 7 without a 3.5mm headphone jack. The phone shipped with Lightning EarPods, a dongle for old headphones, and $159 wireless AirPods sold separately.",
-    "aftermath": "",
+    "aftermath": "In an interview with BuzzFeed News the same day, Schiller said, \"We are removing the audio jack because we have developed a better way to deliver audio,\" and called the idea that it was about DRM \"pure, paranoid conspiracy theory.\" Apple's Greg Joswiak called the jack \"a dinosaur.\"",
     "tags": [
       "customers"
     ],
@@ -587,6 +587,10 @@
       {
         "label": "The Verge",
         "url": "https://www.theverge.com/2016/9/7/12838024/apple-iphone-7-plus-headphone-jack-removal-courage"
+      },
+      {
+        "label": "9to5Mac (quoting BuzzFeed News)",
+        "url": "https://9to5mac.com/2016/09/07/apple-headphone-jack-removal/"
       }
     ]
   },
@@ -623,7 +627,7 @@
     "date": "2019-06-19",
     "venue": "UK Parliament Digital, Culture, Media and Sport Committee",
     "context": "MPs were taking oral evidence on immersive and addictive technologies and asked EA and Epic Games whether loot boxes were ethical, citing research that linked them to problem gambling among adolescents. Hopkins was answering Brendan O'Hara. She compared the packs in FIFA Ultimate Team, EA's biggest example, to surprise toys such as Kinder eggs and Hatchimals.",
-    "aftermath": "",
+    "aftermath": "The committee's report in September 2019 said loot boxes that can be bought with real-world money and do not reveal their contents are games of chance and should be regulated under the Gambling Act 2005. In July 2022 the government said it did \"not intend to amend or extend the scope of gambling regulation to cover loot boxes at this time,\" and asked the games industry to make loot box purchases unavailable to children unless a parent enables them.",
     "tags": [
       "customers",
       "ethics"
@@ -636,6 +640,14 @@
       {
         "label": "Ars Technica",
         "url": "https://arstechnica.com/gaming/2019/06/ea-loot-boxes-actually-surprise-mechanics-that-are-ethical-and-fun/"
+      },
+      {
+        "label": "Bird & Bird (on the committee report)",
+        "url": "https://mediawrites.twobirds.com/post/102j3ra/news-in-today-dcms-wants-lootboxes-regulated-as-gambling"
+      },
+      {
+        "label": "GOV.UK (government response, 2022)",
+        "url": "https://www.gov.uk/government/consultations/loot-boxes-in-video-games-call-for-evidence/outcome/government-response-to-the-call-for-evidence-on-loot-boxes-in-video-games"
       }
     ]
   },
@@ -676,7 +688,7 @@
     "date": "2023-06-15",
     "venue": "Interview with NBC News",
     "context": "Volunteer moderators had taken thousands of subreddits private to protest Reddit's plan to charge more for API access, which third-party apps said would shut them down. Huffman said he was considering rule changes that would let users vote moderators out.",
-    "aftermath": "",
+    "aftermath": "Reddit kept its API pricing, which took effect July 1, 2023. Third-party apps including Apollo, Sync for Reddit, BaconReader and Boost for Reddit shut down, and Reddit removed the moderators of some protesting communities, including r/interestingasfuck and r/mildlyinteresting.",
     "tags": [
       "labor"
     ],
@@ -688,6 +700,10 @@
       {
         "label": "Business Insider",
         "url": "https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6"
+      },
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2023/07/04/reddit-braces-for-life-after-api-changes/"
       }
     ]
   },
@@ -927,7 +943,7 @@
     "date": "2025-05",
     "venue": "Event promoting his book \"How to Save the Internet,\" as reported by The Times",
     "context": "The UK was debating rules on training AI with copyrighted work. Clegg said many creators wanted AI companies to ask permission before training on their work, which struck him as \"somewhat implausible because these systems train on vast amounts of data.\"",
-    "aftermath": "",
+    "aftermath": "The Data (Use and Access) Act 2025 required the government to publish a report and an economic impact assessment on copyright and AI. The report, published March 18, 2026, said \"a broad copyright exception with opt-out is no longer the government's preferred way forward\" and proposed \"not to intervene in the licensing market at this stage.\"",
     "tags": [
       "ai",
       "ethics"
@@ -936,6 +952,10 @@
       {
         "label": "MusicTech (quoting The Times)",
         "url": "https://musictech.com/news/industry/nick-clegg-ai/"
+      },
+      {
+        "label": "GOV.UK (report on copyright and AI, 2026)",
+        "url": "https://www.gov.uk/government/publications/report-and-impact-assessment-on-copyright-and-artificial-intelligence/report-on-copyright-and-artificial-intelligence"
       }
     ]
   },
@@ -972,7 +992,7 @@
     "date": "2015-06-04",
     "venue": "Airbnb's Open Air 2015 conference, onstage interview with Airbnb vice president of engineering Mike Curtis",
     "context": "Months before he co-founded OpenAI, Altman was asked about the growing market for artificial intelligence. In the same interview he said that if he were President Obama he would \"commit maybe $100 billion to R&D of AI safety initiatives,\" and that he had recently invested in a company doing AI safety research.",
-    "aftermath": "",
+    "aftermath": "In May 2023, as CEO of OpenAI, he signed the Center for AI Safety's one-sentence statement that \"Mitigating the risk of extinction from AI should be a global priority,\" alongside pandemics and nuclear war.",
     "tags": [
       "ai",
       "ethics"
@@ -989,6 +1009,10 @@
       {
         "label": "TechRadar",
         "url": "https://www.techradar.com/pro/quote-of-the-day-by-sam-altman-ai-will-probably-most-likely-lead-to-the-end-of-the-world-but-in-the-meantime-therell-be-great-companies-the-dichotomy-between-grave-existential-risks-and-economic-nirvana"
+      },
+      {
+        "label": "Center for AI Safety (2023 statement)",
+        "url": "https://www.safe.ai/press-release"
       }
     ]
   }
