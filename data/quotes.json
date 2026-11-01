@@ -765,5 +765,202 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers"
       }
     ]
+  },
+  {
+    "id": "eric-schmidt-steal-the-music-2024",
+    "quote": "Make me a copy of TikTok, steal all the users, steal all the music, put my preferences in it … if it took off, then you'd hire a whole bunch of lawyers to go clean the mess up, right?",
+    "speaker": "Eric Schmidt",
+    "role": "Former CEO, Google",
+    "company": "Google",
+    "date": "2024",
+    "venue": "Talk to Stanford students",
+    "context": "Schmidt was telling students what they could do with large language models if the US banned TikTok. He described the line above as the prompt to give an AI model, then said what a Silicon Valley entrepreneur would do if the copy took off.",
+    "aftermath": "The video was taken down at Schmidt's request, according to The Wall Street Journal. He later said, \"I was not arguing that you should illegally steal everybody's music.\"",
+    "tags": [
+      "ai",
+      "ethics"
+    ],
+    "sources": [
+      {
+        "label": "Fortune",
+        "url": "https://fortune.com/2024/08/15/ex-google-ceo-eric-schmidt-stanford-ai-advice-steal-ip-hire-lawyers/"
+      }
+    ]
+  },
+  {
+    "id": "mustafa-suleyman-freeware-2024",
+    "quote": "I think that with respect to content that is already on the open web, the social contract of that content since the 1990s has been it is fair use. Anyone can copy it, recreate with it, reproduce with it. That has been freeware, if you like. That's been the understanding.",
+    "speaker": "Mustafa Suleyman",
+    "role": "CEO, Microsoft AI",
+    "company": "Microsoft",
+    "date": "2024-06",
+    "venue": "Aspen Ideas Festival, interview with CNBC's Andrew Ross Sorkin",
+    "context": "Suleyman was asked about AI companies training models on content from the web. He said sites that had explicitly told crawlers not to scrape them for anything beyond search indexing were \"the gray area,\" and that it was \"going to work its way through the courts.\"",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "ethics"
+    ],
+    "sources": [
+      {
+        "label": "The Register",
+        "url": "https://www.theregister.com/2024/06/28/microsoft_ceo_ai"
+      }
+    ]
+  },
+  {
+    "id": "sam-altman-median-human-2023",
+    "quote": "For me, AGI … is the equivalent of a median human that you could hire as a co-worker.",
+    "speaker": "Sam Altman",
+    "role": "CEO, OpenAI",
+    "company": "OpenAI",
+    "date": "2023-09",
+    "venue": "Quoted in Elizabeth Weil's New York magazine profile, which does not say where he said it",
+    "context": "Weil wrote that Altman was \"on occasion, tone-deaf\" and gave this line as her example, noting that many in the tech industry use the phrase \"median human.\"",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "New York magazine",
+        "url": "https://nymag.com/intelligencer/article/sam-altman-artificial-intelligence-openai-profile.html"
+      },
+      {
+        "label": "Futurism",
+        "url": "https://futurism.com/sam-altman-replace-normal-people-ai"
+      }
+    ]
+  },
+  {
+    "id": "sam-altman-marketers-2024",
+    "quote": "It will mean that 95% of what marketers use agencies, strategists, and creative professionals for today will easily, nearly instantly and at almost no cost be handled by the AI … Again, all free, instant, and nearly perfect. Images, videos, campaign ideas? No problem.",
+    "speaker": "Sam Altman",
+    "role": "CEO, OpenAI",
+    "company": "OpenAI",
+    "date": "2024",
+    "venue": "Interview with Adam Brotman and Andy Sack for their book \"Our AI Journey\"",
+    "context": "Brotman and Sack asked Altman what AGI would mean for marketers. In the part cut from the quote, he said the AI would also test the creative work against real or synthetic customer focus groups.",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "Marketing AI Institute",
+        "url": "https://www.marketingaiinstitute.com/blog/sam-altman-ai-agi-marketing"
+      }
+    ]
+  },
+  {
+    "id": "aravind-srinivas-nyt-strike-2024",
+    "quote": "Perplexity is on standby to help ensure your essential coverage is available to all through the election.",
+    "speaker": "Aravind Srinivas",
+    "role": "CEO, Perplexity",
+    "company": "Perplexity",
+    "date": "2024-11-04",
+    "venue": "Reply on X to a post quoting New York Times publisher A.G. Sulzberger",
+    "context": "The New York Times Tech Guild had gone on strike on the eve of the US presidential election. Sulzberger called it \"troubling that the Tech Guild would try to block this public service.\" Srinivas offered Perplexity's help in reply.",
+    "aftermath": "After criticism, Srinivas said the offer was \"to provide technical infra support on a high-traffic day,\" not to replace journalists or engineers with AI.",
+    "tags": [
+      "ai",
+      "labor"
+    ],
+    "sources": [
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2024/11/04/perplexity-ceo-offers-ai-companys-services-to-replace-striking-nyt-staff/"
+      }
+    ]
+  },
+  {
+    "id": "aravind-srinivas-comet-ads-2025",
+    "quote": "That's kind of one of the other reasons we wanted to build a browser, is we want to get data even outside the app to better understand you. … what are the things you're buying; which hotels are you going [to]; which restaurants are you going to; what are you spending time browsing, tells us so much more about you.",
+    "speaker": "Aravind Srinivas",
+    "role": "CEO, Perplexity",
+    "company": "Perplexity",
+    "date": "2025-04",
+    "venue": "TBPN podcast",
+    "context": "Srinivas was explaining why Perplexity was building its Comet browser. He said prompts to AI are often work-related and not personal, and that Perplexity planned \"to use all the context to build a better user profile\" and could show ads in its discover feed.",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "privacy",
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "TechCrunch",
+        "url": "https://techcrunch.com/2025/04/24/perplexity-ceo-says-its-browser-will-track-everything-users-do-online-to-sell-hyper-personalized-ads/"
+      }
+    ]
+  },
+  {
+    "id": "mark-zuckerberg-ai-friends-2025",
+    "quote": "The average American has fewer than three friends, fewer than three people they would consider friends. And the average person has demand for meaningfully more. I think it's something like 15 friends or something.",
+    "speaker": "Mark Zuckerberg",
+    "role": "CEO, Meta",
+    "company": "Meta",
+    "date": "2025-04-29",
+    "venue": "Dwarkesh Podcast",
+    "context": "Zuckerberg was describing how people would use Meta's AI to talk through their personal lives. He said AI would probably not replace in-person connection, but that \"people just don't have as much connection as they want,\" and that over time society would \"find the vocabulary\" to say why such relationships are valuable.",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "customers"
+    ],
+    "sources": [
+      {
+        "label": "Dwarkesh Podcast (transcript)",
+        "url": "https://www.dwarkesh.com/p/mark-zuckerberg-2"
+      }
+    ]
+  },
+  {
+    "id": "nick-clegg-artist-consent-2025",
+    "quote": "I just don't know how you go around, asking everyone first. I just don't see how that would work. … And by the way if you did it in Britain and no one else did it, you would basically kill the AI industry in this country overnight.",
+    "speaker": "Nick Clegg",
+    "role": "Former President of Global Affairs, Meta",
+    "company": "Meta",
+    "date": "2025-05",
+    "venue": "Event promoting his book \"How to Save the Internet,\" as reported by The Times",
+    "context": "The UK was debating rules on training AI with copyrighted work. Clegg said many creators wanted AI companies to ask permission before training on their work, which struck him as \"somewhat implausible because these systems train on vast amounts of data.\"",
+    "aftermath": "",
+    "tags": [
+      "ai",
+      "ethics"
+    ],
+    "sources": [
+      {
+        "label": "MusicTech (quoting The Times)",
+        "url": "https://musictech.com/news/industry/nick-clegg-ai/"
+      }
+    ]
+  },
+  {
+    "id": "sam-altman-train-a-human-2026",
+    "quote": "It also takes a lot of energy to train a human. It takes, like, 20 years of life, and all of the food you eat during that time before you get smart.",
+    "speaker": "Sam Altman",
+    "role": "CEO, OpenAI",
+    "company": "OpenAI",
+    "date": "2026-02",
+    "venue": "Interview with Anant Goenka of The Indian Express, during the India AI Impact Summit",
+    "context": "Altman was arguing that comparisons of AI's energy use with a human's were unfair. He added that producing a person took \"the very widespread evolution of the 100 billion people that have ever lived,\" and said AI had probably already caught up on energy efficiency.",
+    "aftermath": "",
+    "tags": [
+      "ai"
+    ],
+    "sources": [
+      {
+        "label": "Fortune",
+        "url": "https://fortune.com/2026/02/24/sam-altman-open-ai-electricity-usage-water-usage-data-centers-ceo-tech/"
+      },
+      {
+        "label": "Complex",
+        "url": "https://www.complex.com/life/a/jadegomez510/openai-energy-train-human"
+      }
+    ]
   }
 ]
